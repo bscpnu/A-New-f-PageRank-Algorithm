@@ -1,0 +1,17 @@
+case1,activity_A,a
+case1,activity_B,y
+case1,activity_C,a
+case1,activity_D,y
+case1,activity_E,y
+case2,activity_A,a
+case2,activity_B,y
+case2,activity_D,y
+case3,activity_A,a
+case3,activity_B,y
+case4,activity_A,a
+case4,activity_C,m
+case4,activity_B,m
+case5,activity_D,a
+case5,activity_A,m
+case6,activity_E,a
+case6,activity_D,m
