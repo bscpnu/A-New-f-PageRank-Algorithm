@@ -7,6 +7,7 @@ A PageRank Algorithm with a custom equation devising for Social Network Analysis
 please refer to our paper in https://ieeexplore.ieee.org/document/8029787
 
 output
+
 ![alt text](output.png)
 
 ![alt text](output_matrix.png)
